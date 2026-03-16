@@ -4,6 +4,6 @@ I am master student of Data Science in Business and Entrepreneurship. I study at
 
 
 Hobby, work and school projects:
-- 📊 Recently, I collaborated with the organization MostVasárnap on an interactive calculator and visualization for an election outcome probability model. You can check it out here: https://mostvasarnap.hu/mandatumkalkulator2026
+- 📊 Recently, I collaborated with the organization MostVasárnap on an interactive calculator and visualization for an election outcome probability model. You can check it out here: https://mostvasarnap.hu/mandatumkalkulator2026 You can read about the underlying model here: https://mostvasarnap.hu/blog/valasztasi-eselyek-a-szamok-kode
 - I implemented a Kalman Filter for aggregating Hungarian public polls. You can find the repository here: https://github.com/wmark-ds/kalman_filter_polling
 - Team implementation of CI-CD and MLOps pipeliens for a data engineering course: https://github.com/JADSGroup10/DE
