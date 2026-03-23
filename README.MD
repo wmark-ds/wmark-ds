@@ -1,4 +1,4 @@
-<img width="468" height="93" alt="image" src="https://github.com/user-attachments/assets/35496b58-03f0-452a-b000-0cb3eabf0ad0" />## Mark Weiler
+## Mark Weiler
 MSc Data Science (TU Eindhoven & Tilburg University)
 
 My focus is on building data-driven decision-support tools combining machine learning, domain expertise, and visualization. Using data to find unique patterns and to create direct business value via usable and interpretable insights. 
