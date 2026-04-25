@@ -14,9 +14,9 @@ My focus is on building data-driven decision-support tools combining machine lea
 - Team implementation of CI-CD and MLOps pipelines for a data engineering course: https://github.com/JADSGroup10/DE
 
 ### Tech
-Programming: Python (matplotlib, NumPy, Pandas, scikit-learn, PyTorch, Keras, bokeh, Jupyter); R (tidyverse, SNA, ggplot), SQL (SQLite), JavaScript (basic)
-Tools: Git, GitHub, LaTeX, exposure to big data and MLOps/DevOps tools (Google Cloud Platform, Apache Spark, Docker) 
-Methods: Machine Learning (supervised, unsupervised, and deep learning), statistics (regression, hypothesis testing, causal inference), (interactive) data visualization
+- Programming: Python (matplotlib, NumPy, Pandas, scikit-learn, PyTorch, Keras, bokeh, Jupyter); R (tidyverse, SNA, ggplot), SQL (SQLite), JavaScript (basic)
+- Tools: Git, GitHub, LaTeX, exposure to big data and MLOps/DevOps tools (Google Cloud Platform, Apache Spark, Docker) 
+- Methods: Machine Learning (supervised, unsupervised, and deep learning), statistics (regression, hypothesis testing, causal inference), (interactive) data visualization
 
 
 
