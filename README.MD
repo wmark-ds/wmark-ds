@@ -10,6 +10,7 @@ My focus is on building data-driven decision-support tools combining machine lea
 
 ## Selected Projects (code)
 - CNN for detecting pneumonia in X-rays, with Grad-CAM XAI technique: https://github.com/wmark-ds/cnn-pneumonia-detection. A group project with Avan Salman. 
+- Comparison of BERTopic and LLM for classifying short text reports, working within the constraint of limited data availability: https://github.com/wmark-ds/classify_incident_reports
 - I implemented a Kalman Filter for aggregating Hungarian public polls. You can find the repository here: https://github.com/wmark-ds/kalman_filter_polling
 - Team implementation of CI-CD and MLOps pipelines for a data engineering course: https://github.com/JADSGroup10/DE
 
